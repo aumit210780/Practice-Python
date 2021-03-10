@@ -1,0 +1,8 @@
+print("Hello World")
+print(66)
+print(True)
+print("Hi, I am Aumit Hasan and I am ",23,"Years old")
+print("This is a",10,"on",10,"performance")
+print("This is my second code in python and I hope I will be a good programmer very soon. This is my {} on {} promise. I will spent {} hours everyday in coding".format(10,10,4))
+print("My program is {} times better than {}".format(10,2))
+print("That,s all for this program and I will see you in the next one. Thank you")

@@ -1,0 +1,7 @@
+print(990+998)
+print(10087-9887)
+print(100*10)
+print(678/7)
+print(678//7)
+print(88%7)
+print(8**3)
