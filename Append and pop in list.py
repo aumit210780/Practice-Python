@@ -1,0 +1,22 @@
+lis = []
+print(lis)
+lis.append(1)
+lis.append(2)
+print(lis)
+lis.append(3)
+lis.append(4)
+print(lis)
+lis.append(5)
+print(lis)
+#Append function adds at the end of the list
+lis.pop()
+print(lis)
+lis.pop()
+print(lis)
+lis.pop()
+lis.pop()
+print(lis)
+#Pop function removes from the end of the list
+lis.pop()
+print(lis)
+print(len(lis))
