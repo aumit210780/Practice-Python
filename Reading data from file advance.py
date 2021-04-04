@@ -1,0 +1,7 @@
+fileObject = open("Data\\text.txt","r")
+dataa = fileObject.readline()
+print(dataa)
+dat = fileObject.readline()
+print(dat)
+da = fileObject.readlines()
+print(da)
